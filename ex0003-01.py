@@ -1,3 +1,5 @@
+#https://www.onlinegdb.com/online_c_compiler
+
 acumulador = 0
 ciclos = 4 #numero de inputs digitado pelo usuário
  
