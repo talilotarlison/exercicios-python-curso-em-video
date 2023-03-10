@@ -2,6 +2,7 @@
 # Exercícios Python - Curso em Vídeo
 ### Sobre o Curso em Vídeo
 <a href="https://www.programiz.com/python-programming/online-compiler/">IDE Online - Programiz</a>
+<a href="https://www.onlinegdb.com/online_c_compiler">IDE Online - Onlinegdb</a>
 
 Curso em vídeo possui um vasto catálogo de cursos gratuitos voltados para área de TI com ótima qualidade e fornecendo diversos exercícios. Segue link para acesso à plataforma:
 [Canal no Youtube](https://www.youtube.com/user/cursosemvideo) e [Site](https://www.cursoemvideo.com/)
