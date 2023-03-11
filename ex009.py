@@ -1,4 +1,7 @@
 #calculo de taboada
+#https://blog.betrybe.com/python/python-for/
+
+
 print("Tabuada")
 numero = int(input("Ecolha o valor para tabuada?"))
 
