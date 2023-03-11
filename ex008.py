@@ -1,5 +1,5 @@
-print("converter Moeda --> Tranforma real em dolar R$")
-numero = float(input("Ecolha o valor em real que quer converter em dolar?"))
+print("converter Moeda --> Tranforma R$ Real em $Dolar")
+numero = float(input("Ecolha o valor em  R$ real que quer converter em $ dolar?"))
 
 dolar = numero * 0.19
 
