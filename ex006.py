@@ -1,4 +1,4 @@
-print("Sucessor e antecessor de um numero")
+print("Dobro, triplo e raiz de um numero")
 numero = float(input("Ecolha um numero?"))
 
 d = numero * 2
