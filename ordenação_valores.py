@@ -1,4 +1,4 @@
-#ORDENAÇÃO SIMPLE DE UMA LISTA DE 2 VALORES em python
+#ORDENAÇÃO SIMPLES DE UMA LISTA DE 2 VALORES em python
 #Usandoo variavel AUX
  
 numeros = [55,12]
