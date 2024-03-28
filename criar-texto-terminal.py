@@ -1,5 +1,6 @@
 ##############################################################################
 # Criar texto personalizado no terminal:
+# https://www.dio.me/articles/variaveis-e-constantes-em-python-compreendendo-a-fundacao-dos-dados
 
 # Forum de discurção:
 # https://pt.stackoverflow.com/questions/258622/como-criar-desenhos-em-arquivos-escritos-em-batch
