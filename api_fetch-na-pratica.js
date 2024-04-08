@@ -18,7 +18,7 @@ fetch('http://exemplo.com/usuario')
       return response.json()
     })
 
-------------------------
+//------------------------
 
 //codigo react js
 async function carregaRepositorios () {
@@ -27,7 +27,9 @@ async function carregaRepositorios () {
 
       setRepositorio(repositorios);
       console.log(repositorios)
+
  //codigo js puro 
+
   /*fetch('https://api.github.com/users/julio-cesar96/repos',  {
       method: 'GET'})
     .then(dados => dados.json())
@@ -36,7 +38,7 @@ async function carregaRepositorios () {
 
     carregaRepositorios();
 
--------------------------------
+//-------------------------------
 
 fetch('http://outroservidor.com/usuario', { mode: 'no-cors' })
     .then(T => T.json())
@@ -45,13 +47,13 @@ fetch('http://outroservidor.com/usuario', { mode: 'no-cors' })
     })
 
 
--------------------------------------
+//-------------------------------------
 fetch('/api/usuario', { method: 'GET' })
     .then(response => response.text())
     .then(texto => console.log(texto))
     .catch(err => console.log(err.message))
 
---------------------------------------
+//--------------------------------------
 
 //codigo react js
 async function carregaRepositorios () {

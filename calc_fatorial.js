@@ -30,4 +30,4 @@ switch (expr) {
     console.log(`Sorry, we are out of ${expr}.`);
 }
 
-https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/switch
+// https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/switch
