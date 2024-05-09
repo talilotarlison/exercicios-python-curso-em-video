@@ -2,7 +2,7 @@ import random
 
 # Lista de nomes fictícios para os alunos
 nomes_alunos = ["Pedro", "Ana", "Lucas", "Carla", "Rafael", "Juliana", "Marcos", "Isabela", "Gustavo", "Larissa"]
-
+notas = []
 # Crie notas aleatórias para 10 alunos
 for i in range(10):
     nome_aluno = random.choice(nomes_alunos)
