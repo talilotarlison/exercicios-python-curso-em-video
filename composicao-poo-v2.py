@@ -1,4 +1,5 @@
 #https://diveintopython.org/pt/learn/classes/object-instantiation
+#https://www.alura.com.br/artigos/poo-programacao-orientada-a-objetos
 
 # composição com python
 #https://www.alura.com.br/artigos/conhecendo-as-tuplas-no-python
